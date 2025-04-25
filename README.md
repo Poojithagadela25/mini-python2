@@ -48,7 +48,7 @@ Clone the repository or download the notebook.
 
 Place kdrama_DATASET.csv in the same directory.
 
-Run the main.ipynb Jupyter Notebook in any Python environment (e.g., Jupyter Lab, VS Code, Google Colab).
+Run the main.py Python environment (e.g., Jupyter Lab, VS Code, Google Colab).
 
 bash
 Copy
